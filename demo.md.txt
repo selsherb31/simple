@@ -1,3 +1,6 @@
 This is the first line.
+HIT
 This is the second line.
+THIS
 And the third.
+SHIT
