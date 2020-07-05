@@ -2,7 +2,7 @@ This is the first line used for the pull request test
 HIT
 This is the second line!!!
 THIS
-And the third.
+And the third, from the master
 SHIT
 
 And a Final Fourth Line ####### This is it.
