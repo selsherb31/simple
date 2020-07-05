@@ -1,4 +1,4 @@
-This is the first line.
+This is the first line used for the pull request test
 HIT
 This is the second line!!!
 THIS
@@ -7,3 +7,4 @@ SHIT
 
 And a Final Fourth Line ####### This is it.
 
+This is the stash line
